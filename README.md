@@ -4,17 +4,17 @@
 <a href= "https://www.inteli.edu.br/"><img src="https://s3.amazonaws.com/gupy5/production/companies/26702/career/63484/images/2022-04-28_16-56_logo.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
 </p>
 
-# NOME DO PROJETO
+# Implantação de Sistemas de Gestão Empresarial 
 
-## NOME DO GRUPO
+## sapeX
 
 ### Integrantes: 
-- <a href="#">INTEGRANTE 1</a>
-- <a href="#">INTEGRANTE 2</a>
-- <a href="#">INTEGRANTE 3</a>
-- <a href="#">INTEGRANTE 4</a>
-- <a href="#">INTEGRANTE 5</a>
-- <a href="#">INTEGRANTE 6</a>
+- <a href="https://www.linkedin.com/in/gustavo-monteiro-1a499919a/">Gustavo Monteiro</a>
+- <a href="https://www.linkedin.com/in/lucas-britto-376665208/">Lucas Vieira</a>
+- <a href="https://www.linkedin.com/in/maria-lu%C3%ADsa-maia-14384a212/">Maria Luísa Maia</a>
+- <a href="https://www.linkedin.com/in/matheus-fidelis-dos-santos-pinto-680520232/">Matheus Fidelis</a>
+- <a href="https://www.linkedin.com/in/patrick-miranda/">Patrick Miranda</a>
+- <a href="https://www.linkedin.com/in/thainadedeus/">Thaina Lima</a>
 
 ## 📝 Descrição
 
