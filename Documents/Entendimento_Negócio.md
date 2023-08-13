@@ -1,7 +1,14 @@
 # Implantação de Sistemas de Gestão Empresarial - Artefatos de Negócio
 
+As vantagens da implementação de um sistema SAP em uma empresa é muito relevante, para melhorar a comunicação e transferência de dados entre áreas, aumentar a agilidade dos processos e facilitar a tomada de decisão. Mas para realizar uma integração eficaz, é preciso realizar análises com diferentes metodologias e ferramentas voltadas ao desenvolvimento do projeto e ao negócio do cliente que irá receber a implementação (Chang, 2013). 
+
+Neste arquivo serão apresentadas as ferramentas e matrizes desenvolvidas para este projeto, resaltando a importância de sua utilização. 
 
 ## 1. Canvas Proposta de Valor
+
+Ferramenta que dispõe de forma visual aspectos do cliente e da solução proposta, com os desafios enfrentados pelo cliente e os ganhos possíveis ao utilizar a solução desenvolvida. Também ficam destacadas as funcionalidades que podem aliviar as dores e potencializar ganhos do cliente.
+
+<img width="678" alt="image" src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Canvas%20proposta%20de%20valor.png">
 
 
 ## 2.Matriz de Risco
@@ -39,7 +46,10 @@ Lista de Oportunidades:
 - Oportunidade 003: Integração e colaboração entre toda a turma,a fim de que a implementação essa concluida com sucesso.
 - Oportunidade 004: Entendimento sobre diversas áreas do negócio e processos essenciais.
 
-## Plano de ação:
+## 2.1 Plano de ação:
+
+A partir do mapeamento dos riscos, considerando a possibilidade de ocorrência e o potencial impacto no projeto, para iniciar a gestão da crise, visando reverter o seu estado para a equipe voltar ao desenvolvimento do projeto, é importante desenvolver um plano de ação para cada risco da matriz, com um responsável e o tipo de ação para mitigar, aceitar ou transferir o risco, bem como a descrição detalhada do plano de ação de cada risco, respectivamente (Silva, et al, 2020)
+
 - Ameaça 001: Mitigar.
 
 Erro de configuração na plataforma. 
@@ -115,3 +125,7 @@ Fazer aviso prévio para os clientes da Premium Corporate, de no mínimo 10 dias
 ## Referências
 
 ALVES, N. H., & TESSMANN, L. G. dos S.: Matriz De Risco: Um Estudo Em Uma Empresa Calçadista Do Vale do Paranhana, Revista Eletrônica de Ciências Contábeis, 2018.
+
+CHANG, V.: Business Integration as a Service: Computational risk analysis for small and medium enterprises adopting SAP, SCHOOL OF COMPUTING AND CREATIVE TECHNOLOGIES, LEEDS METROPOLITAN UNIVERSITY, LEEDS, UK, 2013.
+
+SILVA, V. F., PENHA, R., BIZARRIAS, F. S.: A RELEVÂNCIA DA HABILIDADE DE EXECUTIVE PRESENCE PARA GERENTES DE PROJETOS, Simpósio Internacional de Gestão de Projetos, Inovação e Sustentabilidade, 2020.
