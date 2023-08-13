@@ -2,7 +2,7 @@
 
 As vantagens da implementação de um sistema SAP em uma empresa é muito relevante, para melhorar a comunicação e transferência de dados entre áreas, aumentar a agilidade dos processos e facilitar a tomada de decisão. Mas para realizar uma integração eficaz, é preciso realizar análises com diferentes metodologias e ferramentas voltadas ao desenvolvimento do projeto e ao negócio do cliente que irá receber a implementação (Chang, 2013). 
 
-Neste arquivo serão apresentadas as ferramentas e matrizes desenvolvidas para este projeto, resaltando a importância de sua utilização. 
+Neste arquivo serão apresentadas as ferramentas e matrizes desenvolvidas para este projeto, ressaltando a importância de sua utilização. 
 
 ## 1. Personas
 
@@ -91,7 +91,7 @@ A seguir seguem as user stories desenvolvidas para este projeto:
 - INTRODUÇÃO <br>
 
 Um ERP (Planejamento de Recursos Empresariais) é um sistema que auxilia na gestão eficiente de todos os processos de uma empresa (como finanças, recursos humanos, produção, entre outros) em um ambiente integrado [1]. Este projeto visa implantar o ERP SAP Business One em um comércio varejista (Premium), visando melhorar os processos operacionais e de tomada de decisões na organização.
-A Premium é uma das maiores lojas Motorsport do Brasil, voltada ao público feminino e masculino. Seus produtos são oficiais e licenciados de marcas mundialmente conhecidas, como: JEEP, RAM, Dodge, Mopar, Camaro, S-10, Hot Whells [2].
+A Premium é uma das maiores lojas Motorsport do Brasil, voltada ao público feminino e masculino. Seus produtos são oficiais e licenciados de marcas mundialmente conhecidas, como: JEEP, RAM, Dodge, Mopar, Camaro, S-10, Hot Wheels [2].
 
 - OBJETIVO <br>
 
@@ -101,7 +101,7 @@ Esta pesquisa tem como objetivo geral mapear os processos de negócios da Premiu
 OBJETIVOS ESPECÍFICOS <br>
 Os objetivos específicos são:
 
-Identificar as dificuldades relacionadas a gestão;
+Identificar as dificuldades relacionadas à gestão;
 Compreender a estrutura organizacional da empresa;
 Mapear os macroprocessos da empresa, abrangendo vendas, compras, contabilidade, financeiro e estoque;
 Identificar possíveis obstáculos que possam surgir durante a implantação do sistema;
@@ -140,13 +140,6 @@ Fonte: Dado dos autores (2023).
 
 Através desta pesquisa exploratória, constatou-se que a empresa é composta pelos seguintes setores: logística, compras, financeiro, comercial (B2B e B2C), criativo e eventos. No momento, esses departamentos operam de forma não integrada, o que dificulta a obtenção de demonstrativos de resultados e avaliações de desempenho. Portanto, a implementação do SAP Business One visa simplificar e automatizar a geração de projeções financeiras, cálculos de impostos e métricas de vendas (expectativa dos gestores da Premium).
 
-REFERÊNCIAS
-
-[1] O que é ERP?. SAP, [s.d.]. Disponível em: <https://www.sap.com/brazil/products/erp/ what-is-erp.html>. Acesso em: 07 de ago. de 2023.
-
-[2] Sobre a Premium Collection. Premium Collection, [s.d.]. Disponível em: <https:// www.usepremium.com.br/sobre-a-premium-collection>. Acesso em: 07 de ago. de 2023.
-
-[3] ALLEN, ROGER K. The Design Process. The Center For Organizational Design, [s.d.]. Disponível em: <https://centerod.com/2012/02/organizational-design-process/>. Acesso em: 07 de ago. de 2023.
 
 
 ### PESQUISA DESK
@@ -199,3 +192,9 @@ SANTOS, Bruno; TRANCOSO, Ederlaine; CARVALHO, Évelyn; ZAPPAROLLI, Luciana. O ER
 
 SAP. SAP Business One. In: SAP. SAP Business One. [S. l.], 2 fev. 2016. Disponível em: https://www.sap.com/products/erp/business-one.html. Acesso em: 13 ago. 2023.
 
+
+[1] O que é ERP?. SAP, [s.d.]. Disponível em: <https://www.sap.com/brazil/products/erp/ what-is-erp.html>. Acesso em: 07 de ago. de 2023.
+
+[2] Sobre a Premium Collection. Premium Collection, [s.d.]. Disponível em: <https:// www.usepremium.com.br/sobre-a-premium-collection>. Acesso em: 07 de ago. de 2023.
+
+[3] ALLEN, ROGER K. The Design Process. The Center For Organizational Design, [s.d.]. Disponível em: <https://centerod.com/2012/02/organizational-design-process/>. Acesso em: 07 de ago. de 2023.
