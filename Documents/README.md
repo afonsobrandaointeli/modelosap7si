@@ -1,8 +1,16 @@
-# Inteli - Instituto de Tecnologia e Liderança 
+# 1. Documento Principal do Projeto
 
-<p align="center">
-<a href= "https://www.inteli.edu.br/"><img src="https://s3.amazonaws.com/gupy5/production/companies/26702/career/63484/images/2022-04-28_16-56_logo.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
-</p>
+Descrição breve do projeto 
 
-# Implantação de Sistemas de Gestão Empresarial 
+### Para fins acadêmicos, a seguir é possível acessar o [Histórico de Revisões](https://github.com/2023M7T4-Inteli/grupo3/blob/main/Documents/historico_revisao.md)
+
+
+## (Sprint 1) Entendimento do Negócio
+
+- Arquivo `README.md` referente à entrega: [Entendimento do Negócio](https://github.com/2023M7T4-Inteli/grupo3/blob/main/Documents/Entendimento_Neg%C3%B3cio.md).
+
+## (Sprint 1) Entendimento da Experiência do Usuário
+
+- Arquivo `README.md` referente à entrega: [Entendimento da Experiência do Usuário](https://github.com/2023M7T4-Inteli/grupo3/blob/main/Documents/Entendimento_UX.md).
+
 
