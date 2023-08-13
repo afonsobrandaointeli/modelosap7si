@@ -110,3 +110,39 @@ A fim de que a implementação seja realizada da forma mais consistente e satisf
 - Method Blue.
   
 Processo de implementação ERP 
+
+ <img src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Processo%20de%20implementa%C3%A7%C3%A3o%20ERP.png" width="900"/>
+
+Figura 2.Processo de implementação ERP.
+Fonte: Dado dos autores (2023).
+
+A implementação de um sistema ERP pode ser conceituada como o processo no qual os módulos são utilizados em uma corporação.
+Os fatores de compatibilidade entre a organização e as características dos sistemas ERP mantém toda a relação com a etapa de implementação (LUCAS,1985). Durante o processo de implementação, é fundamental resolver essas discrepâncias, podendo ser efetivada de duas maneiras: ou muda-se o pacote, por meio da parametrização ou customização, ou mudam-se os procedimentos da organização.
+Dificuldades 
+A obra de Carvalho et al. (2019) realiza o estudo de caso da empresa “Rosa Choque”, companhia de roupas femininas, de médio porte e está no mercado há 30 anos. Com base na implementação do sistema na empresa, o autor ressaltou elementos que são fundamentais e podem apresentar impedimento durante a utilização completa e satisfatória do ERP.
+Criação de um time de trabalho que englobe os melhores profissionais da
+empresa;
+Criação de forte parceria com os três principais atores do processo: os
+consultores da implantação, o fornecedor do software e o fornecedor de hardware;
+Buscar sem parar os menores níveis de personalização do sistema;
+Escolha do ERP com base na adaptação aos negócios da empresa;
+E as pessoas. 
+
+
+REFERÊNCIAS
+
+VALENTIM, Onivaldo; POLITANO, Paulo; PEREIRA, Néocles; FILHO, Targino. Análise comparativa entre a implementação e atualização do sistema ERP R/3 da SAP considerando os fatores críticos de sucesso descritos na literatura: um estudo de caso em uma empresa do segmento de bebidas. SciELO, [S. l.], 21 fev. 2014. Disponível em: https://www.scielo.br/j/gp/a/KYVmhdHxR6wGPnxbPYwxQ8R/?lang=pt. Acesso em: 2 ago. 2023.
+
+
+CAPELLI, Andressa; STORK, Emanuela; SCHUNSK, Fernanda; TOAZZA, Mieli; LEONI, Thais. IMPLEMENTAÇÃO E AVALIAÇÃO DO SISTEMA ERP-SAP NA EMPRESA JOHN DEERE BRASIL -FÁBRICA DE TRATORES. Caderno de Administração. Revista do Departamento de Administração da FEA, [S. l.], v. 8, p. 38-49, 1 jan. 2014. Disponível em: https://revistas.pucsp.br/index.php/caadm/article/view/21135/19679. Acesso em: 2 ago. 2023.
+
+GRIECO, F. A. O Brasil e a globalização econômica. São Paulo: Aduaneiras, 2012.
+
+
+LUCAS, Henry C. Jr. The analysis, design and implementation of information systems. 3ª ed. New York: McGraw Hill, 1985.
+
+
+SANTOS, Bruno; TRANCOSO, Ederlaine; CARVALHO, Évelyn; ZAPPAROLLI, Luciana. O ERP NAGESTÃO DE PEQUENAS E MÉDIAS EMPRESAS: UM ESTUDO DE CASO. 2019. Revista (Tecnólogo em Logística) - Revista, [S. l.], 2014. Disponível em: https://www.revistarefas.com.br/RevFATECZS/article/view/344/232. Acesso em: 13 ago. 2023.
+
+SAP. SAP Business One. In: SAP. SAP Business One. [S. l.], 2 fev. 2016. Disponível em: https://www.sap.com/products/erp/business-one.html. Acesso em: 13 ago. 2023.
+
