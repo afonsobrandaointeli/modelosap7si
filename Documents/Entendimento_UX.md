@@ -1,10 +1,4 @@
-# Inteli - Instituto de Tecnologia e Liderança 
-
-<p align="center">
-<a href= "https://www.inteli.edu.br/"><img src="https://s3.amazonaws.com/gupy5/production/companies/26702/career/63484/images/2022-04-28_16-56_logo.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
-</p>
-
-# Implantação de Sistemas de Gestão Empresarial 
+# Implantação de Sistemas de Gestão Empresarial - Artefatos UX
 
 As vantagens da implementação de um sistema SAP em uma empresa é muito relevante, para melhorar a comunicação e transferência de dados entre áreas, aumentar a agilidade dos processos e facilitar a tomada de decisão. Mas para realizar uma integração eficaz, é preciso realizar análises com diferentes metodologias e ferramentas voltadas ao desenvolvimento do projeto e ao negócio do cliente que irá receber a implementação (Chang, 2013). 
 
@@ -30,6 +24,65 @@ Já a persona Fernanda Macedo corresponde a key user responsável pelo módulo d
 
 ## 2. User Story
 
+Ao colocar as personas no centro das ações da solução, é útil para mapear o esforço e potenciais dificuldades enfrentadas pelo usuário do sistema, além de validar se as requisições do cliente estejam presentes e funcionais no sistema desenvolvido.
+
+A seguir seguem as user stories desenvolvidas para este projeto:
+
+| **${\color{gold}Número}$** 	| ${\color{Gold}01}$  | 
+|---	|---	|
+| **Título** 	| Validação de dados | 
+| **Personas** 	| Gustavo Almeida	| 
+| **História** 	| Eu, como sócio fundador da empresa, desejo ter meus dados validados, para que o SAP B1 seja implementado, por meio da consultoria. | 
+| **Critérios de aceitação** 	| 1. BBP validados  <br /> 2. Dados mestres validados	| 
+| **Testes de aceitação** 	|  Critério 1: <br /> -> O BBP foi preenchido 100% <br /> <ul><li> Aceitou: Correto, começar o próximo critério </li><li> Recusou: Errado, reformular o processo </li></ul> <br /> -> O BBP foi preenchido 80% <br /> <ul><li>  Aceitou: Errado, reformular o processo <br />  </li><li> Recusou: Correto, retornar para o cliente para o preenchimento </li></ul> <br /> Critério 2: <br /> -> O dados mestres foram preenchidos 100% <br /> <ul><li> Aceitou: Correto, começar o próximo critério </li> <li> Recusou: Errado, reformular o processo </li></ul> <br /> -> Os dados mestres foram preenchidos 70% <br /> <ul><li>Aceitou: Errado, reformular o processo </li> <li> Recusou: Correto, retornar para o cliente para o preenchimento 	| 
+
+| **${\color{gold}Número}$** 	| ${\color{Gold}02}$  | 
+|---	|---	|
+| **Título** 	| Configurações SAP B1 | 
+| **Personas** 	| Gustavo Almeida	| 
+| **História** 	| Eu, como sócio fundador da empresa, desejo ter as configurações do sistema parametrizadas, para que o sistema seja implementado, por meio da consultoria. | 
+| **Critérios de aceitação** 	| 1. Configurações do sistema 	| 
+| **Testes de aceitação** 	|  Critério 1: <br /> -> O sistema foi configurado corretamente e está acessível <br /> <ul><li> Aceitou: Correto, começar próxima user story </li><li> Recusou: Errado, reformular o processo </li></ul> <br /> -> O sistema foi configurado corretamente e não está acessível <br /> <ul><li>  Aceitou: Errado, entrar em contato com o suporte <br />  </li><li> Recusou: Correto, entrar em contato com o suporte para entender o erro </li></ul> 
+
+| **${\color{gold}Número}$** 	| ${\color{Gold}03}$  | 
+|---	|---	|
+| **Título** 	| Testes unitários | 
+| **Personas** 	| Gustavo Almeida	| 
+| **História** 	| Eu, como sócio fundador da empresa, desejo entender os processos do SAP B1, para que eu possa aplicar no meu dia a dia, por meio das rodadas de testes feitas pela consultoria. | 
+| **Critérios de aceitação** 	| 1. Realização de testes unitários  | 
+| **Testes de aceitação** 	|  Critério 1: <br /> -> O teste foi realizado com o Key Users <br /> <ul><li> Aceitou: Correto, começar a próxima user story </li><li> Recusou: Errado, reformular o processo </li></ul> <br /> -> O teste não foi realizado com o key users <br /> <ul><li>  Aceitou: Errado, reformular o processo <br />  </li><li> Recusou: Correto, realizar testes com os Key Users </li></ul>| 
+
+| **${\color{gold}Número}$** 	| ${\color{Gold}04}$  | 
+|---	|---	|
+| **Título** 	| Relatórios da empresa | 
+| **Personas** 	| Gustavo Almeida	| 
+| **História** 	| Eu, como sócio fundador da empresa, desejo receber relatórios, para me ajudar a tomar decisões. | 
+| **Critérios de aceitação** 	| 1. Relatórios validados  | 
+| **Testes de aceitação** 	|  Critério 1: <br /> -> O sistema gerou relatórios validados <br /> <ul><li> Aceitou: Correto, começar o próximo critério </li><li> Recusou: Errado, reformular o processo </li></ul> <br /> -> O sistema gerou relatórios com dados inconsistentes <br /> <ul><li>  Aceitou: Errado, entrar em contato com o suporte <br />  </li><li> Recusou: Correto, entrar em contato com o suporte para entender o erro </li></ul>| 
+
+| **${\color{gold}Número}$** 	| ${\color{Gold}05}$  | 
+|---	|---	|
+| **Título** 	| Configurações do módulo de vendas | 
+| **Personas** 	| Fernanda Macedo	| 
+| **História** 	| Eu, como gerente de vendas, desejo ter as configurações do módulo de vendas parametrizadas, para que o sistema seja implementado, por meio da consultoria. | 
+| **Critérios de aceitação** 	| 1. Configuração do sistema  | 
+| **Testes de aceitação** 	|  Critério 1: <br /> -> O sistema foi configurado corretamente e está acessível <br /> <ul><li> Aceitou: Correto, começar a próxima user story </li><li> Recusou: Errado, reformular o processo </li></ul> <br /> -> O sistema foi configurado corretamente e não está acessível <br /> <ul><li>  Aceitou: Errado, entrar em contato com o suporte <br />  </li><li> Recusou: Correto, entrar em contato com o suporte para entender o erro </li></ul>| 
+
+| **${\color{gold}Número}$** 	| ${\color{Gold}06}$  | 
+|---	|---	|
+| **Título** 	| Testes Unitários - Vendas | 
+| **Personas** 	| Fernanda Macedo	| 
+| **História** 	| Eu, como gerente de vendas, desejo receber o treinamento, para que eu consiga utilizar o sistema SAP B1 da forma correta. | 
+| **Critérios de aceitação** 	| 1. Realização de testes unitários  | 
+| **Testes de aceitação** 	|  Critério 1: <br /> -> O teste foi realizado com o Key User de Vendas <br /> <ul><li> Aceitou: Correto, começar a próxima user story </li><li> Recusou: Errado, reformular o processo </li></ul> <br /> -> O teste não foi realizado com o Key User de Vendas <br /> <ul><li>  Aceitou: Errado, reformular o processo <br />  </li><li> Recusou: Correto, realizar testes com o Key Users de Vendas </li></ul>| 
+
+| **${\color{gold}Número}$** 	| ${\color{Gold}07}$  | 
+|---	|---	|
+| **Título** 	| Relatórios do módulo de vendas | 
+| **Personas** 	| Fernanda Macedo	| 
+| **História** 	| Eu, como gerente de vendas, desejo receber relatórios da área de vendas, para me ajudar a tomar decisões. | 
+| **Critérios de aceitação** 	| 1. Relatórios de vendas validados  | 
+| **Testes de aceitação** 	|  Critério 1: <br /> -> O sistema gerou relatórios de vendas validados <br /> <ul><li> Aceitou: Correto, começar o próximo critério </li><li> Recusou: Errado, reformular o processo </li></ul> <br /> -> O sistema gerou formulários de vendas com dados inconsistentes <br /> <ul><li>  Aceitou: Errado, entrar em contato com o suporte <br />  </li><li> Recusou: Correto, entrar em contato com o suporte para entender o erro </li></ul>| 
 
 ## 3. Imersão preliminar
 
