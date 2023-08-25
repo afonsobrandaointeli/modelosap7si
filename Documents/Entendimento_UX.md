@@ -1,32 +1,119 @@
 # Implantação de Sistemas de Gestão Empresarial - Artefatos UX
 
-As vantagens da implementação de um sistema SAP em uma empresa é muito relevante, para melhorar a comunicação e transferência de dados entre áreas, aumentar a agilidade dos processos e facilitar a tomada de decisão. Mas para realizar uma integração eficaz, é preciso realizar análises com diferentes metodologias e ferramentas voltadas ao desenvolvimento do projeto e ao negócio do cliente que irá receber a implementação (Chang, 2013). 
+&emsp;&emsp; As vantagens da implementação de um sistema SAP em uma empresa é muito relevante, para melhorar a comunicação e transferência de dados entre áreas, aumentar a agilidade dos processos e facilitar a tomada de decisão. Mas para realizar uma integração eficaz, é preciso realizar análises com diferentes metodologias e ferramentas voltadas ao desenvolvimento do projeto e ao negócio do cliente que irá receber a implementação (Chang, 2013). Neste arquivo serão apresentadas as ferramentas e matrizes desenvolvidas para este projeto, ressaltando a importância de sua utilização. <br>
 
-Neste arquivo serão apresentadas as ferramentas e matrizes desenvolvidas para este projeto, ressaltando a importância de sua utilização. 
+# 1. Imersão preliminar
 
-## 1. Personas
+## 1.1 Pesquisa Exploratória
 
-A fim de ajudar a equipe de desenvolvimento, foram desenvolvidos dois modelos de persona, que representam um cliente ou usuário ideal do sistema. Essa análise facilita  o entendimento da dor do usuário do sistema, com atenção ao elaborar a melhor estratégia e solução.
+### 1.1.1 Introdução
+
+&emsp;&emsp; Um ERP (Planejamento de Recursos Empresariais) é um sistema que auxilia na gestão eficiente de todos os processos de uma empresa (como finanças, recursos humanos, produção, entre outros) em um ambiente integrado [1]. Este projeto visa implantar o ERP SAP Business One em um comércio varejista (Premium), visando melhorar os processos operacionais e de tomada de decisões na organização. A Premium é uma das maiores lojas Motorsport do Brasil, voltada ao público feminino e masculino. Seus produtos são oficiais e licenciados de marcas mundialmente conhecidas, como: JEEP, RAM, Dodge, Mopar, Camaro, S-10, Hot Wheels [2]. <br>
+&emsp;&emsp; A pesquisa descrita neste tópico teve como objetivo mapear os processos de negócios da Premium. A metodologia utilizada foi de ????, os resultados obtidos foram satisfatórios para o entendimento inicial do projeto. <br>
+
+### 1.1.2 Objetivos
+
+**Objetivo Geral** <br>
+&emsp;&emsp; Esta pesquisa tem como objetivo geral mapear os processos de negócios da Premium, com o intuito de compreender seus objetivos, desafios e a estrutura organizacional. <br>
+
+**Objetivo Específicos** <br>
+&emsp;&emsp; Os objetivos específicos são:
+
+- Identificar as dificuldades relacionadas à gestão;
+- Compreender a estrutura organizacional da empresa;
+- Mapear os macroprocessos da empresa, abrangendo vendas, compras, contabilidade, financeiro e estoque;
+- Identificar possíveis obstáculos que possam surgir durante a implantação do sistema;
+- Identificar os indicadores e métricas de desempenho do projeto;
+- Explorar casos reais de implementações de sistemas de gestão empresarial.
+
+### 1.1.3 Justificativas
+
+&emsp;&emsp; As empresas são formadas por um conjunto de atividades estruturadas e medidas, destinadas a resultar num produto especificado para um determinado cliente ou mercado. Nesse sentido, entender como todos os processos são estruturados e se relacionam é um grande desafio, mas necessário durante a implantação de um ERP [3]. <br>
+&emsp;&emsp; Para realizar uma transição de sistemas eficaz, é crucial detalhar as configurações, funções, responsabilidades e regras de negócios. Ter essas informações devidamente definidas facilita a criação do sistema e a integração dos diferentes módulos. Portanto, a pesquisa exploratória e a coleta de dados secundários (desk research) têm como objetivo reunir informações tanto internas (objetivos e processos da Premium) quanto externas (casos de implementação de sistemas ERP), visando compreender principalmente as dificuldades, necessidades e expectativas de todas as partes interessadas. <br>
+
+
+### 1.1.3 A pesquisa 
+
+&emsp;&emsp; No dia 05 de agosto de 2023 foi realizado um kick-off, para marcar o início do projeto, estabelecendo os objetivos, responsabilidades e alinhando as expectativas. Em um segundo momento, a turma fez uma entrevista com a G2 (parceira de projeto) e a premium (cliente) para compreender o projeto. Os grupos elaboraram um conjunto de perguntas, que foram posteriormente analisadas e selecionadas (Figura 1) pelos Products Owners de cada equipe. <br>
+
+ <img src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Kickoff_Perguntas%20selecionadas.png" width="900"/>
+
+Imagem 3. Perguntas selecionadas. <br>
+Fonte: Dado dos autores (2023).
+
+&emsp;&emsp; No total foram selecionadas 20 perguntas, relacionadas aos aspectos de negócios, à experiência do usuário (UX) e aos processos envolvidos (Tabela 1). Essas perguntas foram distribuídas entre os 5 grupos, que as abordaram ao longo de 4 rodadas. A primeira rodada teve início no grupo 1 e foi concluída no grupo 5, seguida por rodadas subsequentes da mesma maneira. Como resultado final, foi compilado um conjunto abrangente de informações sobre o projeto e a empresa, contribuindo para uma compreensão aprofundada das expectativas e necessidades dos parceiros envolvidos. <br>
+
+
+| QUANTIDADE      | TEMA     |
+|---------------|--------------|
+| 1             | Personas     |
+| 1             | Análise Financeira|
+| 2             | Restrições do Projeto |
+| 3             | Objetivos do projeto |
+| 13            | Processos de negócio|
+
+
+Tabela 1. Temas gerais das perguntas. <br>
+Fonte: Dado dos autores (2023).
+
+&emsp;&emsp; Através desta pesquisa exploratória, constatou-se que a empresa é composta pelos seguintes setores: logística, compras, financeiro, comercial (B2B e B2C), criativo e eventos. No momento, esses departamentos operam de forma não integrada, o que dificulta a obtenção de demonstrativos de resultados e avaliações de desempenho. Portanto, a implementação do SAP Business One visa simplificar e automatizar a geração de projeções financeiras, cálculos de impostos e métricas de vendas (expectativa dos gestores da Premium). <br>
+
+## 1.2 Pesquisa Desk
+
+&emsp;&emsp; Evidencia-se que, conforme a ampliação dos meios de utilização das tecnologias de informação para os mais diversos âmbitos e a mudança de interações e relações sociais, maior integração entre clientes, sistemas e empresas (GRIECO, 2012).
+Exposto isso, vemos uma grande mudança na agenda de prioridades de gestão de empresas, anteriormente, focada em monitoramento de caixa e produção. <br>
+&emsp;&emsp; As empresas reconheceram a necessidade de coordenar melhor as suas atividades dentro de sua cadeia de valor para eliminar desperdícios de recursos, reduzindo o custo e melhorando o tempo de resposta às mudanças das necessidades do mercado, principalmente, com enfoque na satisfação dos clientes. <br>
+&emsp;&emsp; Um ERP pode ser definido como um sistema de gestão integrado, adquirido sob a forma de pacote de software, que visa atender às necessidades de informação das empresas (ALBRECHT ET AL. 2005).
+A SAP (Sistemas, Aplicativos e Produtos para Processamento de Dados) teve sua origem em 1972, na cidade de Walldorf, na Alemanha. O sistema foi desenvolvido a partir de uma aplicação criada a fim de suportar a escrituração contábil das empresas a partir da integração dos processos da empresa. <br>
+&emsp;&emsp; Já o SAP Business One é,  especificamente, o ERP que auxilia no  gerenciamento e suporte de pequenas e médias empresas.
+A fim de que a implementação seja realizada da forma mais consistente e satisfatória possível, existem metodologias que se adaptam conforme o tipo e dinâmicas da empresa, o tempo esperado de implementação e outros. São eles:
+- Summit;
+- ASAP;
+- Method Blue.
+  
+Processo de implementação ERP 
+
+ <img src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Processo%20de%20implementa%C3%A7%C3%A3o%20ERP.png" width="900"/>
+
+Figura 2.Processo de implementação ERP.
+Fonte: Dado dos autores (2023).
+
+&emsp;&emsp; A implementação de um sistema ERP pode ser conceituada como o processo no qual os módulos são utilizados em uma corporação.
+Os fatores de compatibilidade entre a organização e as características dos sistemas ERP mantém toda a relação com a etapa de implementação (LUCAS,1985). Durante o processo de implementação, é fundamental resolver essas discrepâncias, podendo ser efetivada de duas maneiras: ou muda-se o pacote, por meio da parametrização ou customização, ou mudam-se os procedimentos da organização. <br>
+
+**Dificuldades**
+&emsp;&emsp; A obra de Carvalho et al. (2019) realiza o estudo de caso da empresa “Rosa Choque”, companhia de roupas femininas, de médio porte e está no mercado há 30 anos. Com base na implementação do sistema na empresa, o autor ressaltou elementos que são fundamentais e podem apresentar impedimento durante a utilização completa e satisfatória do ERP. <br>
+- Criação de um time de trabalho que englobe os melhores profissionais da
+empresa;
+- Criação de forte parceria com os três principais atores do processo: os
+consultores da implantação, o fornecedor do software e o fornecedor de hardware;
+- Buscar sem parar os menores níveis de personalização do sistema;
+- Escolha do ERP com base na adaptação aos negócios da empresa;
+- E as pessoas. 
+
+## 2. Personas
+
+&emsp;&emsp; A fim de ajudar a equipe de desenvolvimento, foram desenvolvidos dois modelos de persona, que representam um cliente ou usuário ideal do sistema. Essa análise facilita  o entendimento da dor do usuário do sistema, com atenção ao elaborar a melhor estratégia e solução.
 A seguir, seguem as personas desenvolvidas:
 
  <img src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Persona_Gabriel.png" width="900"/>
 Imagem 1. Persona Gabriel Almeida <br>
 Fonte: Dados dos autores (2023) <br>
 
-A persona do Gabriel Almeida é desenvolvida a fim de compreender o key user que gerencia o fluxo operacional da empresa, a fim de condicionar o treinamento e disseminação do SAP Business One.
+&emsp;&emsp; A persona do Gabriel Almeida é desenvolvida a fim de compreender o key user que gerencia o fluxo operacional da empresa, a fim de condicionar o treinamento e disseminação do SAP Business One.
 
  <img src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Persona_Fernanda.png" width="900"/>
 Imagem 2. Persona Fernanda Macedo <br>
 Fonte: Dados dos autores (2023) <br>
 
-Já a persona Fernanda Macedo corresponde a key user responsável pelo módulo de vendas, disposta a melhorar o processo e aumentar a integração dos outros módulos essenciais para o funcionamento da corporação.
+&emsp;&emsp; Já a persona Fernanda Macedo corresponde a key user responsável pelo módulo de vendas, disposta a melhorar o processo e aumentar a integração dos outros módulos essenciais para o funcionamento da corporação.
 
 
-## 2. User Story
+## 3. User Story
 
-Ao colocar as personas no centro das ações da solução, é útil para mapear o esforço e potenciais dificuldades enfrentadas pelo usuário do sistema, além de validar se as requisições do cliente estejam presentes e funcionais no sistema desenvolvido.
+&emsp;&emsp; Ao colocar as personas no centro das ações da solução, é útil para mapear o esforço e potenciais dificuldades enfrentadas pelo usuário do sistema, além de validar se as requisições do cliente estejam presentes e funcionais no sistema desenvolvido. O grupo viu a necessidade de criar mais uma user stories para o Gustavo, que é sócio da empresa, por ele ter uma quantidade de tarefas no dia a dia maior do que a Fernanda, como gerente de vendas. 
 
-A seguir seguem as user stories desenvolvidas para este projeto:
+&emsp;&emsp; A seguir seguem as user stories desenvolvidas para este projeto:
 
 | **${\color{gold}Número}$** 	| ${\color{Gold}01}$  | 
 |---	|---	|
@@ -57,8 +144,8 @@ A seguir seguem as user stories desenvolvidas para este projeto:
 | **Título** 	| Relatórios da empresa | 
 | **Personas** 	| Gustavo Almeida	| 
 | **História** 	| Eu, como sócio fundador da empresa, desejo receber relatórios, para me ajudar a tomar decisões. | 
-| **Critérios de aceitação** 	| 1. Relatórios validados  | 
-| **Testes de aceitação** 	|  Critério 1: <br /> -> O sistema gerou relatórios validados <br /> <ul><li> Aceitou: Correto, começar o próximo critério </li><li> Recusou: Errado, reformular o processo </li></ul> <br /> -> O sistema gerou relatórios com dados inconsistentes <br /> <ul><li>  Aceitou: Errado, entrar em contato com o suporte <br />  </li><li> Recusou: Correto, entrar em contato com o suporte para entender o erro </li></ul>| 
+| **Critérios de aceitação** 	| 1. Relatórios consolidados  | 
+| **Testes de aceitação** 	|  Critério 1: <br /> -> O sistema gerou relatórios consolidados <br /> <ul><li> Aceitou: Correto, começar o próximo critério </li><li> Recusou: Errado, reformular o processo </li></ul> <br /> -> O sistema gerou relatórios com dados inconsistentes <br /> <ul><li>  Aceitou: Errado, entrar em contato com o suporte <br />  </li><li> Recusou: Correto, entrar em contato com o suporte para entender o erro </li></ul>| 
 
 | **${\color{gold}Número}$** 	| ${\color{Gold}05}$  | 
 |---	|---	|
@@ -84,98 +171,10 @@ A seguir seguem as user stories desenvolvidas para este projeto:
 | **Critérios de aceitação** 	| 1. Relatórios de vendas validados  | 
 | **Testes de aceitação** 	|  Critério 1: <br /> -> O sistema gerou relatórios de vendas validados <br /> <ul><li> Aceitou: Correto, começar o próximo critério </li><li> Recusou: Errado, reformular o processo </li></ul> <br /> -> O sistema gerou formulários de vendas com dados inconsistentes <br /> <ul><li>  Aceitou: Errado, entrar em contato com o suporte <br />  </li><li> Recusou: Correto, entrar em contato com o suporte para entender o erro </li></ul>| 
 
-## 3. Imersão preliminar
-
-### PESQUISA EXPLORATÓRIA
-
-- INTRODUÇÃO <br>
-
-Um ERP (Planejamento de Recursos Empresariais) é um sistema que auxilia na gestão eficiente de todos os processos de uma empresa (como finanças, recursos humanos, produção, entre outros) em um ambiente integrado [1]. Este projeto visa implantar o ERP SAP Business One em um comércio varejista (Premium), visando melhorar os processos operacionais e de tomada de decisões na organização.
-A Premium é uma das maiores lojas Motorsport do Brasil, voltada ao público feminino e masculino. Seus produtos são oficiais e licenciados de marcas mundialmente conhecidas, como: JEEP, RAM, Dodge, Mopar, Camaro, S-10, Hot Wheels [2].
-
-- OBJETIVO <br>
-
-OBJETIVO GERAL <br>
-Esta pesquisa tem como objetivo geral mapear os processos de negócios da Premium, com o intuito de compreender seus objetivos, desafios e a estrutura organizacional.
-
-OBJETIVOS ESPECÍFICOS <br>
-Os objetivos específicos são:
-
-Identificar as dificuldades relacionadas à gestão;
-Compreender a estrutura organizacional da empresa;
-Mapear os macroprocessos da empresa, abrangendo vendas, compras, contabilidade, financeiro e estoque;
-Identificar possíveis obstáculos que possam surgir durante a implantação do sistema;
-Identificar os indicadores e métricas de desempenho do projeto;
-Explorar casos reais de implementações de sistemas de gestão empresarial;
-
-- JUSTIFICATIVAS <br>
-
-As empresas são formadas por um conjunto de atividades estruturadas e medidas, destinadas a resultar num produto especificado para um determinado cliente ou mercado. Nesse sentido, entender como todos os processos são estruturados e se relacionam é um grande desafio, mas necessário durante a implantação de um ERP [3].
-Para realizar uma transição de sistemas eficaz, é crucial detalhar as configurações, funções, responsabilidades e regras de negócios. Ter essas informações devidamente definidas facilita a criação do sistema e a integração dos diferentes módulos. Portanto, a pesquisa exploratória e a coleta de dados secundários (desk research) têm como objetivo reunir informações tanto internas (objetivos e processos da Premium) quanto externas (casos de implementação de sistemas ERP), visando compreender principalmente as dificuldades, necessidades e expectativas de todas as partes interessadas.
-
-
-- PESQUISA EXPLORATÓRIA 
-
-No dia 05 de agosto de 2023 foi realizado um kick-off, para marcar o início do projeto, estabelecendo os objetivos, responsabilidades e alinhando as expectativas. Em um segundo momento, a turma fez uma entrevista com a G2 (parceira de projeto) e a premium (cliente) para compreender o projeto. Os grupos elaboraram um conjunto de perguntas, que foram posteriormente analisadas e selecionadas (Figura 1) pelos Products Owners de cada equipe.
-
- <img src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Kickoff_Perguntas%20selecionadas.png" width="900"/>
-
-Imagem 3. Perguntas selecionadas. <br>
-Fonte: Dado dos autores (2023).
-
-No total foram selecionadas 20 perguntas, relacionadas aos aspectos de negócios, à experiência do usuário (UX) e aos processos envolvidos (Tabela 1). Essas perguntas foram distribuídas entre os 5 grupos, que as abordaram ao longo de 4 rodadas. A primeira rodada teve início no grupo 1 e foi concluída no grupo 5, seguida por rodadas subsequentes da mesma maneira. Como resultado final, foi compilado um conjunto abrangente de informações sobre o projeto e a empresa, contribuindo para uma compreensão aprofundada das expectativas e necessidades dos parceiros envolvidos.
-
-
-| QUANTIDADE      | TEMA     |
-|---------------|--------------|
-| 1             | Personas     |
-| 1             | Análise Financeira|
-| 2             | Restrições do Projeto |
-| 3             | Objetivos do projeto |
-| 13            | Processos de negócio|
-
-
-Tabela 1. Temas gerais das perguntas. <br>
-Fonte: Dado dos autores (2023).
-
-Através desta pesquisa exploratória, constatou-se que a empresa é composta pelos seguintes setores: logística, compras, financeiro, comercial (B2B e B2C), criativo e eventos. No momento, esses departamentos operam de forma não integrada, o que dificulta a obtenção de demonstrativos de resultados e avaliações de desempenho. Portanto, a implementação do SAP Business One visa simplificar e automatizar a geração de projeções financeiras, cálculos de impostos e métricas de vendas (expectativa dos gestores da Premium).
 
 
 
-### PESQUISA DESK
-
-Evidencia-se que, conforme a ampliação dos meios de utilização das tecnologias de informação para os mais diversos âmbitos e a mudança de interações e relações sociais, maior integração entre clientes, sistemas e empresas (GRIECO, 2012).
-Exposto isso, vemos uma grande mudança na agenda de prioridades de gestão de empresas, anteriormente, focada em monitoramento de caixa e produção.
-As empresas reconheceram a necessidade de coordenar melhor as suas atividades dentro de sua cadeia de valor para eliminar desperdícios de recursos, reduzindo o custo e melhorando o tempo de resposta às mudanças das necessidades do mercado, principalmente, com enfoque na satisfação dos clientes.
-Um ERP pode ser definido como um sistema de gestão integrado, adquirido sob a forma de pacote de software, que visa atender às necessidades de informação das empresas (ALBRECHT ET AL. 2005).
-A SAP (Sistemas, Aplicativos e Produtos para Processamento de Dados) teve sua origem em 1972, na cidade de Walldorf, na Alemanha. O sistema foi desenvolvido a partir de uma aplicação criada a fim de suportar a escrituração contábil das empresas a partir da integração dos processos da empresa. 
-Já o SAP Business One é,  especificamente, o ERP que auxilia no  gerenciamento e suporte de pequenas e médias empresas.
-A fim de que a implementação seja realizada da forma mais consistente e satisfatória possível, existem metodologias que se adaptam conforme o tipo e dinâmicas da empresa, o tempo esperado de implementação e outros. São eles:
-- Summit;
-- ASAP;
-- Method Blue.
-  
-Processo de implementação ERP 
-
- <img src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Processo%20de%20implementa%C3%A7%C3%A3o%20ERP.png" width="900"/>
-
-Figura 2.Processo de implementação ERP.
-Fonte: Dado dos autores (2023).
-
-A implementação de um sistema ERP pode ser conceituada como o processo no qual os módulos são utilizados em uma corporação.
-Os fatores de compatibilidade entre a organização e as características dos sistemas ERP mantém toda a relação com a etapa de implementação (LUCAS,1985). Durante o processo de implementação, é fundamental resolver essas discrepâncias, podendo ser efetivada de duas maneiras: ou muda-se o pacote, por meio da parametrização ou customização, ou mudam-se os procedimentos da organização.
-Dificuldades 
-A obra de Carvalho et al. (2019) realiza o estudo de caso da empresa “Rosa Choque”, companhia de roupas femininas, de médio porte e está no mercado há 30 anos. Com base na implementação do sistema na empresa, o autor ressaltou elementos que são fundamentais e podem apresentar impedimento durante a utilização completa e satisfatória do ERP.
-Criação de um time de trabalho que englobe os melhores profissionais da
-empresa;
-Criação de forte parceria com os três principais atores do processo: os
-consultores da implantação, o fornecedor do software e o fornecedor de hardware;
-Buscar sem parar os menores níveis de personalização do sistema;
-Escolha do ERP com base na adaptação aos negócios da empresa;
-E as pessoas. 
-
-
-REFERÊNCIAS
+## 4. Referências
 
 VALENTIM, Onivaldo; POLITANO, Paulo; PEREIRA, Néocles; FILHO, Targino. Análise comparativa entre a implementação e atualização do sistema ERP R/3 da SAP considerando os fatores críticos de sucesso descritos na literatura: um estudo de caso em uma empresa do segmento de bebidas. SciELO, [S. l.], 21 fev. 2014. Disponível em: https://www.scielo.br/j/gp/a/KYVmhdHxR6wGPnxbPYwxQ8R/?lang=pt. Acesso em: 2 ago. 2023.
 
