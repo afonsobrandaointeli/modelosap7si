@@ -8,7 +8,9 @@
 
 ### 1.1.1 Introdução
 
-&emsp;&emsp; Um ERP (Planejamento de Recursos Empresariais) é um sistema que auxilia na gestão eficiente de todos os processos de uma empresa (como finanças, recursos humanos, produção, entre outros) em um ambiente integrado [1]. Este projeto visa implantar o ERP SAP Business One em um comércio varejista (Premium), visando melhorar os processos operacionais e de tomada de decisões na organização. A Premium é uma das maiores lojas Motorsport do Brasil, voltada ao público feminino e masculino. Seus produtos são oficiais e licenciados de marcas mundialmente conhecidas, como: JEEP, RAM, Dodge, Mopar, Camaro, S-10, Hot Wheels [2]. <br>
+&emsp;&emsp; Um ERP (Planejamento de Recursos Empresariais) é um sistema que auxilia na gestão eficiente de todos os processos de uma empresa (como finanças, recursos humanos, produção, entre outros) em um ambiente integrado [1]. Este projeto visa implantar o ERP SAP Business One em um comércio varejista (Premium), visando melhorar os processos operacionais e de tomada de decisões na organização.
+A Premium é uma das maiores lojas Motorsport do Brasil, voltada ao público feminino e masculino. Seus produtos são oficiais e licenciados de marcas mundialmente conhecidas, como: JEEP, RAM, Dodge, Mopar, Camaro, S-10, Hot Whells [2].
+<br>
 &emsp;&emsp; A pesquisa descrita neste tópico teve como objetivo mapear os processos de negócios da Premium. A metodologia utilizada foi de ????, os resultados obtidos foram satisfatórios para o entendimento inicial do projeto. <br>
 
 ### 1.1.2 Objetivos
@@ -60,13 +62,19 @@ Fonte: Dado dos autores (2023).
 
 ## 1.2 Pesquisa Desk
 
-&emsp;&emsp; Evidencia-se que, conforme a ampliação dos meios de utilização das tecnologias de informação para os mais diversos âmbitos e a mudança de interações e relações sociais, maior integração entre clientes, sistemas e empresas (GRIECO, 2012).
-Exposto isso, vemos uma grande mudança na agenda de prioridades de gestão de empresas, anteriormente, focada em monitoramento de caixa e produção. <br>
-&emsp;&emsp; As empresas reconheceram a necessidade de coordenar melhor as suas atividades dentro de sua cadeia de valor para eliminar desperdícios de recursos, reduzindo o custo e melhorando o tempo de resposta às mudanças das necessidades do mercado, principalmente, com enfoque na satisfação dos clientes. <br>
-&emsp;&emsp; Um ERP pode ser definido como um sistema de gestão integrado, adquirido sob a forma de pacote de software, que visa atender às necessidades de informação das empresas (ALBRECHT ET AL. 2005).
-A SAP (Sistemas, Aplicativos e Produtos para Processamento de Dados) teve sua origem em 1972, na cidade de Walldorf, na Alemanha. O sistema foi desenvolvido a partir de uma aplicação criada a fim de suportar a escrituração contábil das empresas a partir da integração dos processos da empresa. <br>
-&emsp;&emsp; Já o SAP Business One é,  especificamente, o ERP que auxilia no  gerenciamento e suporte de pequenas e médias empresas.
+&emsp;&emsp; A fim de entender a complexidade e abrangência do SAP, é essencial estabelecer uma base sólida de conhecimento através de fontes bibliográficas relevantes, envolvendo os processos de pesquisa, seleção e análise crítica. Esse fator permite aos pesquisadores e estudantes compreenderem os fundamentos do SAP, suas funcionalidades, arquitetura e aplicações. Portanto, esta pesquisa foi estabelecida através da metodologia por pesquisa bibliográfica.
+Evidencia-se que, conforme a ampliação dos meios de utilização das tecnologias de informação para os mais diversos âmbitos e a mudança de interações e relações sociais, maior integração entre clientes, sistemas e empresas (GRIECO, 2012).
+
+
+&emsp;&emsp;Exposto isso, vemos uma grande mudança na agenda de prioridades de gestão de empresas, anteriormente, focada em monitoramento de caixa e produção.
+As empresas reconheceram a necessidade de coordenar melhor as suas atividades dentro de sua cadeia de valor para eliminar desperdícios de recursos, reduzindo o custo e melhorando o tempo de resposta às mudanças das necessidades do mercado, principalmente, com enfoque na satisfação dos clientes.
+Um ERP pode ser definido como um sistema de gestão integrado, adquirido sob a forma de pacote de software, que visa atender às necessidades de informação das empresas (ALBRECHT ET AL. 2005).
+
+
+&emsp;&emsp;A SAP (Sistemas, Aplicativos e Produtos para Processamento de Dados) teve sua origem em 1972, na cidade de Walldorf, na Alemanha. O sistema foi desenvolvido a partir de uma aplicação criada a fim de suportar a escrituração contábil das empresas a partir da integração dos processos da empresa. 
+Já o SAP Business One é,  especificamente, o ERP que auxilia no  gerenciamento e suporte de pequenas e médias empresas.
 A fim de que a implementação seja realizada da forma mais consistente e satisfatória possível, existem metodologias que se adaptam conforme o tipo e dinâmicas da empresa, o tempo esperado de implementação e outros. São eles:
+
 - Summit;
 - ASAP;
 - Method Blue.
@@ -89,7 +97,17 @@ empresa;
 consultores da implantação, o fornecedor do software e o fornecedor de hardware;
 - Buscar sem parar os menores níveis de personalização do sistema;
 - Escolha do ERP com base na adaptação aos negócios da empresa;
-- E as pessoas. 
+- E as pessoas.
+
+&emsp;&emsp;Em suma, à medida que exploramos a integração cada vez maior das tecnologias de informação em diversos setores, é evidente a necessidade de uma maior conectividade entre clientes, sistemas e empresas. Esse panorama em constante evolução trouxe à tona a importância da implementação do Sistema de Processamento de Dados (SAP), em empresas de médio porte, uma vez que a gestão eficaz da cadeia de valor se tornou uma prioridade primordial
+
+## 1.3 Reflexão com Base nos Dados
+&emsp;&emsp; Com uma pesquisa imersiva é possível compreender detalhes, desafios, oportunidades e nuances que compôem toda a cadeia de colaboradores e setores da empresa, bem como onde e a forma que a empresa atua no mercado, ressaltando as operações internas e vivências sobre o ambiente de trabalho, indo além de uma coleta de dados superficiais, ajudando os desenvolvedores a entenderem o todo, e não apenas uma parte, com uma imersão direta e a interação dos elementos avaliados na pesquisa.
+
+&emsp;&emsp; Após uma análise detalhada sobre os dados, fica evidente como a partir de uma pesquisa imersiva é possível entender melhor os fluxos de trabalhos a partir dos desafios cotidianos, oportunidades de melhorias e gargalos nos processos, estes que passariam desapercebidos com uma pesquisa de abordagem mais superficial.
+
+&emsp;&emsp; Com isso, torna-se viável também a elaboração de regras de negócio que refletem de maneira precisa e eficaz a realidade operacional e estratégica da empresa, como por exemplo, na relação entre a equipe de vendas em uma loja física, com o seu estoque de produtos locais, e o transporte de produtos do estoque geral, e todas as restrições que modulam os processos e afetam diretamente no fluxo de trabalho da empresa, que necessitam refletir no sistema a ser implementado utilizando o SAP Business One, evitando retrabalho e possíveis atritos entre as partes, como a equipe de consultores e desenvolvedores com a empresa que deseja implementar o sistema em seus processos e seus colaboradores.
+
 
 ## 2. Personas
 
