@@ -38,9 +38,11 @@ A Premium é uma das maiores lojas Motorsport do Brasil, voltada ao público fem
 
 &emsp;&emsp; No dia 05 de agosto de 2023 foi realizado um kick-off, para marcar o início do projeto, estabelecendo os objetivos, responsabilidades e alinhando as expectativas. Em um segundo momento, a turma fez uma entrevista com a G2 (parceira de projeto) e a premium (cliente) para compreender o projeto. Os grupos elaboraram um conjunto de perguntas, que foram posteriormente analisadas e selecionadas (Figura 1) pelos Products Owners de cada equipe. <br>
 
+Imagem 3. Perguntas selecionadas. <br>
+
  <img src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Kickoff_Perguntas%20selecionadas.png" width="900"/>
 
-Imagem 3. Perguntas selecionadas. <br>
+
 Fonte: Dado dos autores (2023).
 
 &emsp;&emsp; No total foram selecionadas 20 perguntas, relacionadas aos aspectos de negócios, à experiência do usuário (UX) e aos processos envolvidos (Tabela 1). Essas perguntas foram distribuídas entre os 5 grupos, que as abordaram ao longo de 4 rodadas. A primeira rodada teve início no grupo 1 e foi concluída no grupo 5, seguida por rodadas subsequentes da mesma maneira. Como resultado final, foi compilado um conjunto abrangente de informações sobre o projeto e a empresa, contribuindo para uma compreensão aprofundada das expectativas e necessidades dos parceiros envolvidos. <br>
@@ -81,9 +83,11 @@ A fim de que a implementação seja realizada da forma mais consistente e satisf
   
 Processo de implementação ERP 
 
+Figura 2.Processo de implementação ERP.
+
  <img src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Processo%20de%20implementa%C3%A7%C3%A3o%20ERP.png" width="900"/>
 
-Figura 2.Processo de implementação ERP.
+
 Fonte: Dado dos autores (2023).
 
 &emsp;&emsp; A implementação de um sistema ERP pode ser conceituada como o processo no qual os módulos são utilizados em uma corporação.
@@ -114,14 +118,18 @@ consultores da implantação, o fornecedor do software e o fornecedor de hardwar
 &emsp;&emsp; A fim de ajudar a equipe de desenvolvimento, foram desenvolvidos dois modelos de persona, que representam um cliente ou usuário ideal do sistema. Essa análise facilita  o entendimento da dor do usuário do sistema, com atenção ao elaborar a melhor estratégia e solução.
 A seguir, seguem as personas desenvolvidas:
 
- <img src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Persona_Gabriel.png" width="900"/>
 Imagem 1. Persona Gabriel Almeida <br>
+
+ <img src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Persona_Gabriel.png" width="900"/>
+
 Fonte: Dados dos autores (2023) <br>
 
 &emsp;&emsp; A persona do Gabriel Almeida é desenvolvida a fim de compreender o key user que gerencia o fluxo operacional da empresa, a fim de condicionar o treinamento e disseminação do SAP Business One.
 
- <img src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Persona_Fernanda.png" width="900"/>
 Imagem 2. Persona Fernanda Macedo <br>
+
+ <img src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Persona_Fernanda.png" width="900"/>
+
 Fonte: Dados dos autores (2023) <br>
 
 &emsp;&emsp; Já a persona Fernanda Macedo corresponde a key user responsável pelo módulo de vendas, disposta a melhorar o processo e aumentar a integração dos outros módulos essenciais para o funcionamento da corporação.
