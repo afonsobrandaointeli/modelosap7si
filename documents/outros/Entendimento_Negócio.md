@@ -53,70 +53,79 @@ Lista de Oportunidades:
 
 &emsp;&emsp; **Responsável**: Malu
 
-&emsp;&emsp; Mapear todos os erros comuns para a G2 durante a implementação do SAP, e revisitá-los durante o projeto. Além disso, destaca-se a atenção devida durante as configurações iniciais, aplicando conforme o passo-a-passo percorrido pela Valquíria. Justifica-se tal escolha, dado que, existem falhas que normalmente ocorrem durante a parametrização da plataforma que são irreversíveis  e devem ser evitadas.
+&emsp;&emsp; Mapear todos os erros comuns para a G2 durante a implementação do SAP, e revisitá-los durante o projeto. Além disso, destaca-se a atenção devida durante as configurações iniciais, aplicando conforme o passo-a-passo percorrido pela Valquíria. Justifica-se tal escolha, dado que, existem falhas que normalmente ocorrem durante a parametrização da plataforma que são irreversíveis  e devem ser evitadas.<br>
+
 - Ameaça 002: Mitigar.
 
-Dependência de integração com os demais módulos.
+&emsp;&emsp; Dependência de integração com os demais módulos.
 
-Responsável: Patrick
+&emsp;&emsp; Responsável: Patrick
 
-Garantir que os times responsáveis pelos demais módulos estão alinhados com a expectativa da entrega e não possuem impedimentos para tal. Caso possuírem, oferecer o apoio necessário. Fundamenta-se a argumentação a partir da perspectiva de que os grupos possuem dificuldades que podem ser diluídas  por toda a turma e ultrapassados com maior facilidade, sem atrapalhar os processos dependentes.
+&emsp;&emsp; Garantir que os times responsáveis pelos demais módulos estão alinhados com a expectativa da entrega e não possuem impedimentos para tal. Caso possuírem, oferecer o apoio necessário. Fundamenta-se a argumentação a partir da perspectiva de que os grupos possuem dificuldades que podem ser diluídas  por toda a turma e ultrapassados com maior facilidade, sem atrapalhar os processos dependentes. <br>
+
 - Ameaça 003: Transferir.
 
-Ausência de informação, ou informação desatualizada no material de apoio da plataforma SAP.
+&emsp;&emsp; Ausência de informação, ou informação desatualizada no material de apoio da plataforma SAP.
 
-Responsável: Thaina
+&emsp;&emsp; Responsável: Thaina
 
-Entrar em contato com a equipe de apoio da G2 caso haja alguma dúvida ou decisão essencial a ser tomada com base nos materiais disponibilizados. Evidencia-se a  utilização dessa medida de contenção, visto que, os consultores possuem experiências nas metodologias de implementação SAP e precisam ser consultados a fim de que nada seja feito de forma impulsiva ou errônea.
+&emsp;&emsp; Entrar em contato com a equipe de apoio da G2 caso haja alguma dúvida ou decisão essencial a ser tomada com base nos materiais disponibilizados. Evidencia-se a  utilização dessa medida de contenção, visto que, os consultores possuem experiências nas metodologias de implementação SAP e precisam ser consultados a fim de que nada seja feito de forma impulsiva ou errônea. <br>
+
 - Ameaça 004: Aceitar.
 
-Dados faltantes no BBP.
+&emsp;&emsp; Dados faltantes no BBP.
 
-Responsável: Thaina
+&emsp;&emsp; Responsável: Thaina
 
-É de fundamental importância a comunicação, de forma eficiente, com o orientador da turma e a GP.  Ressalta-se que o cliente precisa fornecer os dados para que a implementação seja feita da forma mais completa possível. Para isso, a Gerente de Projetos e o Orientador precisam estar cientes da falta.
+&emsp;&emsp; É de fundamental importância a comunicação, de forma eficiente, com o orientador da turma e a GP.  Ressalta-se que o cliente precisa fornecer os dados para que a implementação seja feita da forma mais completa possível. Para isso, a Gerente de Projetos e o Orientador precisam estar cientes da falta. <br>
+
 - Ameaça 005: Transferir.
 
-Dados fornecidos de forma incosistente ou incompatível com sistema Bussines One.
+&emsp;&emsp; Dados fornecidos de forma incosistente ou incompatível com sistema Bussines One.
 
-Responsável: Lucas
+&emsp;&emsp; Responsável: Lucas
 
-É crucial a comunicação, com a maior rapidez possível, ao orientador e  GP do projeto, a fim de que essa inconsistência seja fundamentada e passada aos consultores e clientes. Destaca-se que a comunicação a respeito da percepção que temos sobre os dados, seja incompatibilidade ou inconsistência, são indispensáveis para a aprendizagem de prevenção de erros.
+&emsp;&emsp; É crucial a comunicação, com a maior rapidez possível, ao orientador e  GP do projeto, a fim de que essa inconsistência seja fundamentada e passada aos consultores e clientes. Destaca-se que a comunicação a respeito da percepção que temos sobre os dados, seja incompatibilidade ou inconsistência, são indispensáveis para a aprendizagem de prevenção de erros. <br>
+
 - Ameaça 006: Mitigar.
 
-Atraso na entrega dos dados mestres.
+&emsp;&emsp; Atraso na entrega dos dados mestres.
 
-Responsável: Patrick
+&emsp;&emsp; Responsável: Patrick
 
-Adiantamento dos módulos e atividades que podem ser executadas com antecedência. Caso todas as tarefas já tenham sido adiantadas ou estejam em fase final, é de indubitável importância comunicar ao orientador e GP. Novamente, enfatiza-se a importância de requisitar ao cliente aquilo que está em atraso, durante as comunicações com o orientador ou a GP. Enquanto isso, é importante não desassistir tarefas que podem ser adiantadas, a fim de não atrasar os trabalhos dos times que são dependentes das entregas.
+&emsp;&emsp; Adiantamento dos módulos e atividades que podem ser executadas com antecedência. Caso todas as tarefas já tenham sido adiantadas ou estejam em fase final, é de indubitável importância comunicar ao orientador e GP. Novamente, enfatiza-se a importância de requisitar ao cliente aquilo que está em atraso, durante as comunicações com o orientador ou a GP. Enquanto isso, é importante não desassistir tarefas que podem ser adiantadas, a fim de não atrasar os trabalhos dos times que são dependentes das entregas. <br>
+
 - Ameaça 007: Mitigar.
 
-Ausência de membro do grupo durante o desenvolvimento.
+&emsp;&emsp; Ausência de membro do grupo durante o desenvolvimento.
 
-Responsável: Matheus
+&emsp;&emsp; Responsável: Matheus
 
-As atividades deverão ser definidas durante a planning e ajustadas durante o decorrer da sprint, por isso é fundamental que cada membro do time tenha ciência e cumpra o prazo de entrega. Salienta-se que o time é autogerenciável, portanto, a falta de um membro durante o desenvolvimento não deverá impactar os resultados.
+&emsp;&emsp; As atividades deverão ser definidas durante a planning e ajustadas durante o decorrer da sprint, por isso é fundamental que cada membro do time tenha ciência e cumpra o prazo de entrega. Salienta-se que o time é autogerenciável, portanto, a falta de um membro durante o desenvolvimento não deverá impactar os resultados. <br>
+
 - Ameaça 008: Mitigar.
 
-Vazamento de dados confidenciais.
+&emsp;&emsp; Vazamento de dados confidenciais.
 
-Responsável: Matheus
+&emsp;&emsp; Responsável: Matheus
 
-É indicado que antes da utilização, os dados sejam mascarados. Se a publicação ocorrer, é necessário a retirada imediata dos dados da rede pública, no qual foram vazados. Além disso, recomenda-se avisar a todos envolvidos no projeto. Tal medida descrita é justificável, uma vez que, como equipe de tecnologia da informação, esse é o comportamento adequado  quando há alguma irregularidade consoante à Lei Geral de Proteção de Dados (LGPD). 
+&emsp;&emsp; É indicado que antes da utilização, os dados sejam mascarados. Se a publicação ocorrer, é necessário a retirada imediata dos dados da rede pública, no qual foram vazados. Além disso, recomenda-se avisar a todos envolvidos no projeto. Tal medida descrita é justificável, uma vez que, como equipe de tecnologia da informação, esse é o comportamento adequado  quando há alguma irregularidade consoante à Lei Geral de Proteção de Dados (LGPD). <br>
+
 - Ameaça 009: Transferir.
 
-Não disponibilidade dos consultores da G2., em momentos críticos.
+&emsp;&emsp; Não disponibilidade dos consultores da G2., em momentos críticos.
 
-Responsável: Lucas
+&emsp;&emsp; Responsável: Lucas
 
-Planejar durante a cerimônia da planning e conforme a necessidade do time, os horários para que o Scrum Master e PO encontrem os consultores da G2, segundo a disponibilidade dos mesmos no campus. Elucida-se o movimento elaborado pois sabe-se que é importante estruturar aquilo que precisa ser comunicado, de forma direta e eficiente, com os parceiros, no tempo disponível na war room.
+&emsp;&emsp; Planejar durante a cerimônia da planning e conforme a necessidade do time, os horários para que o Scrum Master e PO encontrem os consultores da G2, segundo a disponibilidade dos mesmos no campus. Elucida-se o movimento elaborado pois sabe-se que é importante estruturar aquilo que precisa ser comunicado, de forma direta e eficiente, com os parceiros, no tempo disponível na war room. <br>
+
 - Ameaça 010: Transferir.
 
-Dificuldade ao reunir dados de contabilidade fiscal, visto que, as informações são monitoradas por uma empresa terceirizada.
+&emsp;&emsp; Dificuldade ao reunir dados de contabilidade fiscal, visto que, as informações são monitoradas por uma empresa terceirizada.
 
-Responsável: Gustavo
+&emsp;&emsp; Responsável: Gustavo
 
-Fazer aviso prévio para os clientes da Premium Corporate, de no mínimo 10 dias antes da real aplicação, a respeito das informações que são cruciais para a implementação dos módulos que requerem informações fiscais. É justificável a escolha de realizar pedidos e avisos aos clientes com o prazo de 10 dias, ao observado que é correspondente aos dias da sprint, a fim de que os mesmos tenham tempo de providenciá-los e os times não sejam impactados.
+&emsp;&emsp; Fazer aviso prévio para os clientes da Premium Corporate, de no mínimo 10 dias antes da real aplicação, a respeito das informações que são cruciais para a implementação dos módulos que requerem informações fiscais. É justificável a escolha de realizar pedidos e avisos aos clientes com o prazo de 10 dias, ao observado que é correspondente aos dias da sprint, a fim de que os mesmos tenham tempo de providenciá-los e os times não sejam impactados.
 
 
 ## Referências
