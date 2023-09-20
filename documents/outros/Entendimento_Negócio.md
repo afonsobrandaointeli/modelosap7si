@@ -7,10 +7,10 @@
 &emsp;&emsp; Ferramenta que dispõe de forma visual aspectos do cliente e da solução proposta, com os desafios enfrentados pelo cliente e os ganhos possíveis ao utilizar a solução desenvolvida. Também ficam destacadas as funcionalidades que podem aliviar as dores e potencializar ganhos do cliente. Abaixo é apresentado o Canvas Proposta de Valor do projeto.
 
 <img width="678" alt="image" src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Canvas%20proposta%20de%20valor.png">
-Imagem 01: Proposta de Valor
+Imagem 01: Proposta de Valor <br>
 Fonte: Dados dos autores
 
-&emsp;&emsp; FAZER DESCRIÇÃO DA PROPOSTA
+&emsp;&emsp; Do lado esquerdo da imagem é representado o "Segmento do Cliente", como as tarefas que o cliente deve realizar; os ganhos e as dores. Como tarefas, foram inseridas duas principais: o cadastro de informações em diferentes bases, já que hoje o financeiro deve preencher uma planinha diferente para cada área e, como consequência, o registro desses dados é feito de forma manual. Além disso, os ganhos ...
 
 ## 2.Matriz de Risco
 
