@@ -10,12 +10,12 @@
 Imagem 01: Proposta de Valor <br>
 Fonte: Dados dos autores <br><br>
 
-&emsp;&emsp; Do lado esquerdo da imagem é representado o "Segmento do Cliente", como as tarefas que o cliente deve realizar; os ganhos e as dores. Como tarefas, foram inseridas duas principais: o cadastro de informações em diferentes bases, já que hoje o financeiro deve preencher uma planinha diferente para cada área e, como consequência, o registro desses dados é feito de forma manual. Além disso, os ganhos com a solução são diversos, como a agilidade no fluxo de trabalho; efetividade na comunicação e integração entre as áreas; centralização dos dados e ajuda na tomada de decisão. Por último, o grupo encontrou algumas dores que o cliente tem atualmente, como: falta de integração das áreas; descentralização dos dados da empresa, por ser em planilhas; limitação do ERP atual; ocasionais erros contábeis serem mais prováveis de acontecer e quantidade de tempo alta para realizar tarefas mecânicas. 
+&emsp;&emsp; Do lado esquerdo da imagem é representado o "Segmento do Cliente", como as tarefas que o cliente deve realizar; os ganhos e as dores. Como tarefas, foram inseridas duas principais: o cadastro de informações em diferentes bases, já que hoje o financeiro deve preencher uma planinha diferente para cada área e, como consequência, o registro desses dados é feito de forma manual. Além disso, os ganhos com a solução são diversos, como a agilidade no fluxo de trabalho; efetividade na comunicação e integração entre as áreas; centralização dos dados e ajuda na tomada de decisão. Por último, o grupo encontrou algumas dores que o cliente tem atualmente, como: falta de integração das áreas; descentralização dos dados da empresa, por ser em planilhas; limitação do ERP atual; ocasionais erros contábeis serem mais prováveis de acontecer e quantidade de tempo alta para realizar tarefas mecânicas. <br>
 &emsp;&emsp; Já do lado direito da imagem, a Proposta de Valor, pode-se observar que a figura está separada em 3 áreas, sendo elas: Produto e serviço, que neste caso é a implementação do sistema de gestão empresarial, o SAP B1. Como geradores dos ganhos citados anteriormente, há a realização de todas as interações necessárias de forma automatizada; plataforma única para todos e centralização dos dados, já que eles estarão no ERP e, como consequência, os dados são integros e únicos. Como aliviadores de dores, temos a integração das diversas áreas das empresas; contenção de erros nos processos; redução de tempo gasto em tarefas mecânicas; centralização dos dados, e com isso, é garantido um cadastro único de dados. 
 
 ## 2.Matriz de Risco
 
-&emsp;&emsp; É importante mensurar os fatores de risco, de acordo com as ameaças de fatores externos, para evitar ou mitigar os impactos negativos durante o desenvolvimento do projeto. Com a matriz de riscos é possível antecipar estes fatores, que juntamente com um plano de ação, é traçado um planejamento mais estratégico para lidar com esses elementos, bem como os integrantes responsáveis para aplicar o plano estabelecido, diminuindo incertezas e evitando um tempo de resposta longo diante impedimentos (Alves e Tessmann, 2018).
+&emsp;&emsp; É importante mensurar os fatores de risco, de acordo com as ameaças de fatores externos, para evitar ou mitigar os impactos negativos durante o desenvolvimento do projeto. Com a matriz de riscos é possível antecipar estes fatores, que juntamente com um plano de ação, é traçado um planejamento mais estratégico para lidar com esses elementos, bem como os integrantes responsáveis para aplicar o plano estabelecido, diminuindo incertezas e evitando um tempo de resposta longo diante impedimentos (Alves e Tessmann, 2018). <br>
 
 &emsp;&emsp; Também se vê relevante mapear oportunidades que podem surgir com o projeto em questão, visando o melhor aproveitamento entre as partes envolvidas, levantando pontos positivos que podem surgir, além é claro, da solução implementada. A seguir a Matriz de Risco desenvolvida, com as ameaças e oportunidades, identificadas por números, com a descrição listada abaixo da matriz.
 
@@ -70,7 +70,7 @@ Lista de Oportunidades:
 
 &emsp;&emsp; Ausência de informação, ou informação desatualizada no material de apoio da plataforma SAP.
 
-&emsp;&emsp; Responsável: Thaina
+&emsp;&emsp; Responsável: Thainá
 
 &emsp;&emsp; Entrar em contato com a equipe de apoio da G2 caso haja alguma dúvida ou decisão essencial a ser tomada com base nos materiais disponibilizados. Evidencia-se a  utilização dessa medida de contenção, visto que, os consultores possuem experiências nas metodologias de implementação SAP e precisam ser consultados a fim de que nada seja feito de forma impulsiva ou errônea. <br>
 
@@ -78,7 +78,7 @@ Lista de Oportunidades:
 
 &emsp;&emsp; Dados faltantes no BBP.
 
-&emsp;&emsp; Responsável: Thaina
+&emsp;&emsp; Responsável: Thainá
 
 &emsp;&emsp; É de fundamental importância a comunicação, de forma eficiente, com o orientador da turma e a GP.  Ressalta-se que o cliente precisa fornecer os dados para que a implementação seja feita da forma mais completa possível. Para isso, a Gerente de Projetos e o Orientador precisam estar cientes da falta. <br>
 
