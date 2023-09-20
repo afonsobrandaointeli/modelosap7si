@@ -4,9 +4,11 @@
 
 ## 1. Canvas Proposta de Valor
 
-&emsp;&emsp; Ferramenta que dispõe de forma visual aspectos do cliente e da solução proposta, com os desafios enfrentados pelo cliente e os ganhos possíveis ao utilizar a solução desenvolvida. Também ficam destacadas as funcionalidades que podem aliviar as dores e potencializar ganhos do cliente.
+&emsp;&emsp; Ferramenta que dispõe de forma visual aspectos do cliente e da solução proposta, com os desafios enfrentados pelo cliente e os ganhos possíveis ao utilizar a solução desenvolvida. Também ficam destacadas as funcionalidades que podem aliviar as dores e potencializar ganhos do cliente. Abaixo é apresentado o Canvas Proposta de Valor do projeto.
 
 <img width="678" alt="image" src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Canvas%20proposta%20de%20valor.png">
+Imagem 01: Proposta de Valor
+Fonte: Dados dos autores
 
 &emsp;&emsp; FAZER DESCRIÇÃO DA PROPOSTA
 
