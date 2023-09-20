@@ -92,7 +92,7 @@ Fonte: Dado dos autores (2023).
 &emsp;&emsp; A implementação de um sistema ERP pode ser conceituada como o processo no qual os módulos são utilizados em uma corporação. <br>
 &emsp;&emsp; Os fatores de compatibilidade entre a organização e as características dos sistemas ERP mantém toda a relação com a etapa de implementação (LUCAS,1985). Durante o processo de implementação, é fundamental resolver essas discrepâncias, podendo ser efetivada de duas maneiras: ou muda-se o pacote, por meio da parametrização ou customização, ou mudam-se os procedimentos da organização. <br>
 
-**Dificuldades**
+**Dificuldades** <br>
 &emsp;&emsp; A obra de Carvalho et al. (2019) realiza o estudo de caso da empresa “Rosa Choque”, companhia de roupas femininas, de médio porte e está no mercado há 30 anos. Com base na implementação do sistema na empresa, o autor ressaltou elementos que são fundamentais e podem apresentar impedimento durante a utilização completa e satisfatória do ERP. <br>
 - Criação de um time de trabalho que englobe os melhores profissionais da
 empresa;
