@@ -7,7 +7,7 @@ Descrição breve do projeto
 
 ## (Sprint 1) Entendimento do Negócio
 
-- Arquivo `README.md` referente à entrega: [Entendimento do Negócio](https://github.com/2023M7T4-Inteli/grupo3/blob/main/Documents/Entendimento_Neg%C3%B3cio.md).
+- Arquivo `README.md` referente à entrega: [Entendimento do Negócio](https://github.com/2023M7T4-Inteli/grupo3/blob/main/documents/outros/Entendimento_Neg%C3%B3cio.md).
 
 ## (Sprint 1) Entendimento da Experiência do Usuário
 
