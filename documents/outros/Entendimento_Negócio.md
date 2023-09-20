@@ -1,23 +1,20 @@
 # Implantação de Sistemas de Gestão Empresarial - Artefatos de Negócio
 
-As vantagens da implementação de um sistema SAP em uma empresa é muito relevante, para melhorar a comunicação e transferência de dados entre áreas, aumentar a agilidade dos processos e facilitar a tomada de decisão. Mas para realizar uma integração eficaz, é preciso realizar análises com diferentes metodologias e ferramentas voltadas ao desenvolvimento do projeto e ao negócio do cliente que irá receber a implementação (Chang, 2013). 
-
-Neste arquivo serão apresentadas as ferramentas e matrizes desenvolvidas para este projeto, resaltando a importância de sua utilização. 
+&emsp;&emsp; As vantagens da implementação de um sistema SAP em uma empresa é muito relevante, para melhorar a comunicação e transferência de dados entre áreas, aumentar a agilidade dos processos e facilitar a tomada de decisão. Mas para realizar uma integração eficaz, é preciso realizar análises com diferentes metodologias e ferramentas voltadas ao desenvolvimento do projeto e ao negócio do cliente que irá receber a implementação (Chang, 2013). Neste arquivo serão apresentadas as ferramentas e matrizes desenvolvidas para este projeto, resaltando a importância de sua utilização. 
 
 ## 1. Canvas Proposta de Valor
 
-Ferramenta que dispõe de forma visual aspectos do cliente e da solução proposta, com os desafios enfrentados pelo cliente e os ganhos possíveis ao utilizar a solução desenvolvida. Também ficam destacadas as funcionalidades que podem aliviar as dores e potencializar ganhos do cliente.
+&emsp;&emsp; Ferramenta que dispõe de forma visual aspectos do cliente e da solução proposta, com os desafios enfrentados pelo cliente e os ganhos possíveis ao utilizar a solução desenvolvida. Também ficam destacadas as funcionalidades que podem aliviar as dores e potencializar ganhos do cliente.
 
 <img width="678" alt="image" src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Canvas%20proposta%20de%20valor.png">
 
+&emsp;&emsp; FAZER DESCRIÇÃO DA PROPOSTA
 
 ## 2.Matriz de Risco
 
-É importante mensurar os fatores de risco, de acordo com as ameaças de fatores externos, para evitar ou mitigar os impactos negativos durante o desenvolvimento do projeto. Com a matriz de riscos é possível antecipar estes fatores, que juntamente com um plano de ação, é traçado um planejamento mais estratégico para lidar com esses elementos, bem como os integrantes responsáveis para aplicar o plano estabelecido, diminuindo incertezas e evitando um tempo de resposta longo diante impedimentos (Alves e Tessmann, 2018).
+&emsp;&emsp; É importante mensurar os fatores de risco, de acordo com as ameaças de fatores externos, para evitar ou mitigar os impactos negativos durante o desenvolvimento do projeto. Com a matriz de riscos é possível antecipar estes fatores, que juntamente com um plano de ação, é traçado um planejamento mais estratégico para lidar com esses elementos, bem como os integrantes responsáveis para aplicar o plano estabelecido, diminuindo incertezas e evitando um tempo de resposta longo diante impedimentos (Alves e Tessmann, 2018).
 
-Também se vê relevante mapear oportunidades que podem surgir com o projeto em questão, visando o melhor aproveitamento entre as partes envolvidas, levantando pontos positivos que podem surgir, além é claro, da solução implementada.
-
-A seguir a Matriz de Risco desenvolvida, com as ameaças e oportunidades, identificadas por números, com a descrição listada abaixo da matriz.
+&emsp;&emsp; Também se vê relevante mapear oportunidades que podem surgir com o projeto em questão, visando o melhor aproveitamento entre as partes envolvidas, levantando pontos positivos que podem surgir, além é claro, da solução implementada. A seguir a Matriz de Risco desenvolvida, com as ameaças e oportunidades, identificadas por números, com a descrição listada abaixo da matriz.
 
 | **${\color{purple}Porcentagem}$** 	| ${\color{blue}}$  | ${\color{blue}}$  | ${\color{red}Ameaças}$  	|  ${\color{greenyellow}}$  	|   ${\color{greenyellow}}$  	|   ${\color{greenyellow}}$  	|   ${\color{greenyellow}}$  	|   ${\color{blue}Oportunidades}$  	|   ${\color{greenyellow}}$  	|   ${\color{greenyellow}}$  	|
 |---	|---	|---  |---  |---	|---	|---	|---	|---	|---	|---	|
@@ -48,15 +45,15 @@ Lista de Oportunidades:
 
 ## 2.1 Plano de ação:
 
-A partir do mapeamento dos riscos, considerando a possibilidade de ocorrência e o potencial impacto no projeto, para iniciar a gestão da crise, visando reverter o seu estado para a equipe voltar ao desenvolvimento do projeto, é importante desenvolver um plano de ação para cada risco da matriz, com um responsável e o tipo de ação para mitigar, aceitar ou transferir o risco, bem como a descrição detalhada do plano de ação de cada risco, respectivamente (Silva, et al, 2020)
+&emsp;&emsp; A partir do mapeamento dos riscos, considerando a possibilidade de ocorrência e o potencial impacto no projeto, para iniciar a gestão da crise, visando reverter o seu estado para a equipe voltar ao desenvolvimento do projeto, é importante desenvolver um plano de ação para cada risco da matriz, com um responsável e o tipo de ação para mitigar, aceitar ou transferir o risco, bem como a descrição detalhada do plano de ação de cada risco, respectivamente (Silva, et al, 2020)
 
 - Ameaça 001: Mitigar.
 
-Erro de configuração na plataforma. 
+&emsp;&emsp; Erro de configuração na plataforma. 
 
-Responsável: Malu
+&emsp;&emsp; **Responsável**: Malu
 
-Mapear todos os erros comuns para a G2 durante a implementação do SAP, e revisitá-los durante o projeto. Além disso, destaca-se a atenção devida durante as configurações iniciais, aplicando conforme o passo-a-passo percorrido pela Valquíria. Justifica-se tal escolha, dado que, existem falhas que normalmente ocorrem durante a parametrização da plataforma que são irreversíveis  e devem ser evitadas.
+&emsp;&emsp; Mapear todos os erros comuns para a G2 durante a implementação do SAP, e revisitá-los durante o projeto. Além disso, destaca-se a atenção devida durante as configurações iniciais, aplicando conforme o passo-a-passo percorrido pela Valquíria. Justifica-se tal escolha, dado que, existem falhas que normalmente ocorrem durante a parametrização da plataforma que são irreversíveis  e devem ser evitadas.
 - Ameaça 002: Mitigar.
 
 Dependência de integração com os demais módulos.
