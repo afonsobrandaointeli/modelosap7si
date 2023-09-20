@@ -47,15 +47,15 @@ Lista de Oportunidades:
 
 &emsp;&emsp; A partir do mapeamento dos riscos, considerando a possibilidade de ocorrência e o potencial impacto no projeto, para iniciar a gestão da crise, visando reverter o seu estado para a equipe voltar ao desenvolvimento do projeto, é importante desenvolver um plano de ação para cada risco da matriz, com um responsável e o tipo de ação para mitigar, aceitar ou transferir o risco, bem como a descrição detalhada do plano de ação de cada risco, respectivamente (Silva, et al, 2020)
 
-- Ameaça 001: Mitigar.
+**- Ameaça 001: Mitigar.**
 
 &emsp;&emsp; Erro de configuração na plataforma. 
 
-&emsp;&emsp; **Responsável**: Malu
+&emsp;&emsp; Responsável: Malu
 
 &emsp;&emsp; Mapear todos os erros comuns para a G2 durante a implementação do SAP, e revisitá-los durante o projeto. Além disso, destaca-se a atenção devida durante as configurações iniciais, aplicando conforme o passo-a-passo percorrido pela Valquíria. Justifica-se tal escolha, dado que, existem falhas que normalmente ocorrem durante a parametrização da plataforma que são irreversíveis  e devem ser evitadas.<br>
 
-- Ameaça 002: Mitigar.
+**- Ameaça 002: Mitigar.**
 
 &emsp;&emsp; Dependência de integração com os demais módulos.
 
@@ -63,7 +63,7 @@ Lista de Oportunidades:
 
 &emsp;&emsp; Garantir que os times responsáveis pelos demais módulos estão alinhados com a expectativa da entrega e não possuem impedimentos para tal. Caso possuírem, oferecer o apoio necessário. Fundamenta-se a argumentação a partir da perspectiva de que os grupos possuem dificuldades que podem ser diluídas  por toda a turma e ultrapassados com maior facilidade, sem atrapalhar os processos dependentes. <br>
 
-- Ameaça 003: Transferir.
+**- Ameaça 003: Transferir.**
 
 &emsp;&emsp; Ausência de informação, ou informação desatualizada no material de apoio da plataforma SAP.
 
@@ -71,7 +71,7 @@ Lista de Oportunidades:
 
 &emsp;&emsp; Entrar em contato com a equipe de apoio da G2 caso haja alguma dúvida ou decisão essencial a ser tomada com base nos materiais disponibilizados. Evidencia-se a  utilização dessa medida de contenção, visto que, os consultores possuem experiências nas metodologias de implementação SAP e precisam ser consultados a fim de que nada seja feito de forma impulsiva ou errônea. <br>
 
-- Ameaça 004: Aceitar.
+**- Ameaça 004: Aceitar.**
 
 &emsp;&emsp; Dados faltantes no BBP.
 
@@ -79,7 +79,7 @@ Lista de Oportunidades:
 
 &emsp;&emsp; É de fundamental importância a comunicação, de forma eficiente, com o orientador da turma e a GP.  Ressalta-se que o cliente precisa fornecer os dados para que a implementação seja feita da forma mais completa possível. Para isso, a Gerente de Projetos e o Orientador precisam estar cientes da falta. <br>
 
-- Ameaça 005: Transferir.
+**- Ameaça 005: Transferir.**
 
 &emsp;&emsp; Dados fornecidos de forma incosistente ou incompatível com sistema Bussines One.
 
@@ -87,7 +87,7 @@ Lista de Oportunidades:
 
 &emsp;&emsp; É crucial a comunicação, com a maior rapidez possível, ao orientador e  GP do projeto, a fim de que essa inconsistência seja fundamentada e passada aos consultores e clientes. Destaca-se que a comunicação a respeito da percepção que temos sobre os dados, seja incompatibilidade ou inconsistência, são indispensáveis para a aprendizagem de prevenção de erros. <br>
 
-- Ameaça 006: Mitigar.
+**- Ameaça 006: Mitigar.**
 
 &emsp;&emsp; Atraso na entrega dos dados mestres.
 
@@ -95,7 +95,7 @@ Lista de Oportunidades:
 
 &emsp;&emsp; Adiantamento dos módulos e atividades que podem ser executadas com antecedência. Caso todas as tarefas já tenham sido adiantadas ou estejam em fase final, é de indubitável importância comunicar ao orientador e GP. Novamente, enfatiza-se a importância de requisitar ao cliente aquilo que está em atraso, durante as comunicações com o orientador ou a GP. Enquanto isso, é importante não desassistir tarefas que podem ser adiantadas, a fim de não atrasar os trabalhos dos times que são dependentes das entregas. <br>
 
-- Ameaça 007: Mitigar.
+**- Ameaça 007: Mitigar.**
 
 &emsp;&emsp; Ausência de membro do grupo durante o desenvolvimento.
 
@@ -103,7 +103,7 @@ Lista de Oportunidades:
 
 &emsp;&emsp; As atividades deverão ser definidas durante a planning e ajustadas durante o decorrer da sprint, por isso é fundamental que cada membro do time tenha ciência e cumpra o prazo de entrega. Salienta-se que o time é autogerenciável, portanto, a falta de um membro durante o desenvolvimento não deverá impactar os resultados. <br>
 
-- Ameaça 008: Mitigar.
+**- Ameaça 008: Mitigar.**
 
 &emsp;&emsp; Vazamento de dados confidenciais.
 
@@ -111,7 +111,7 @@ Lista de Oportunidades:
 
 &emsp;&emsp; É indicado que antes da utilização, os dados sejam mascarados. Se a publicação ocorrer, é necessário a retirada imediata dos dados da rede pública, no qual foram vazados. Além disso, recomenda-se avisar a todos envolvidos no projeto. Tal medida descrita é justificável, uma vez que, como equipe de tecnologia da informação, esse é o comportamento adequado  quando há alguma irregularidade consoante à Lei Geral de Proteção de Dados (LGPD). <br>
 
-- Ameaça 009: Transferir.
+**- Ameaça 009: Transferir.**
 
 &emsp;&emsp; Não disponibilidade dos consultores da G2., em momentos críticos.
 
@@ -119,7 +119,7 @@ Lista de Oportunidades:
 
 &emsp;&emsp; Planejar durante a cerimônia da planning e conforme a necessidade do time, os horários para que o Scrum Master e PO encontrem os consultores da G2, segundo a disponibilidade dos mesmos no campus. Elucida-se o movimento elaborado pois sabe-se que é importante estruturar aquilo que precisa ser comunicado, de forma direta e eficiente, com os parceiros, no tempo disponível na war room. <br>
 
-- Ameaça 010: Transferir.
+**- Ameaça 010: Transferir.**
 
 &emsp;&emsp; Dificuldade ao reunir dados de contabilidade fiscal, visto que, as informações são monitoradas por uma empresa terceirizada.
 
