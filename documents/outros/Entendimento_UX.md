@@ -8,8 +8,8 @@
 
 ### 1.1.1 Introdução
 
-&emsp;&emsp; Um ERP (Planejamento de Recursos Empresariais) é um sistema que auxilia na gestão eficiente de todos os processos de uma empresa (como finanças, recursos humanos, produção, entre outros) em um ambiente integrado [1]. Este projeto visa implantar o ERP SAP Business One em um comércio varejista (Premium), visando melhorar os processos operacionais e de tomada de decisões na organização.
-A Premium é uma das maiores lojas Motorsport do Brasil, voltada ao público feminino e masculino. Seus produtos são oficiais e licenciados de marcas mundialmente conhecidas, como: JEEP, RAM, Dodge, Mopar, Camaro, S-10, Hot Whells [2].
+&emsp;&emsp; Um ERP (Planejamento de Recursos Empresariais) é um sistema que auxilia na gestão eficiente de todos os processos de uma empresa (como finanças, recursos humanos, produção, entre outros) em um ambiente integrado [1]. Este projeto visa implantar o ERP SAP Business One em um comércio varejista (Premium), visando melhorar os processos operacionais e de tomada de decisões na organização. <br>
+&emsp;&emsp; A Premium é uma das maiores lojas Motorsport do Brasil, voltada ao público feminino e masculino. Seus produtos são oficiais e licenciados de marcas mundialmente conhecidas, como: JEEP, RAM, Dodge, Mopar, Camaro, S-10, Hot Whells [2].
 <br>
 &emsp;&emsp; A pesquisa descrita neste tópico teve como objetivo mapear os processos de negócios da Premium. A metodologia utilizada foi de entrevista, utilizando a técnica de coleta de dados em pesquisa qualitativa. Os resultados obtidos foram satisfatórios para o entendimento inicial do projeto. <br>
 
@@ -42,7 +42,7 @@ A Premium é uma das maiores lojas Motorsport do Brasil, voltada ao público fem
 
  <img src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Kickoff_Perguntas%20selecionadas.png" width="900"/>
 
-Imagem 3. Perguntas selecionadas. <br>
+Imagem 1. Perguntas selecionadas. <br>
 Fonte: Dado dos autores (2023).
 
 &emsp;&emsp; No total foram selecionadas 20 perguntas, relacionadas aos aspectos de negócios, à experiência do usuário (UX) e aos processos envolvidos (Tabela 1). Essas perguntas foram distribuídas entre os 5 grupos, que as abordaram ao longo de 4 rodadas. A primeira rodada teve início no grupo 1 e foi concluída no grupo 5, seguida por rodadas subsequentes da mesma maneira. Como resultado final, foi compilado um conjunto abrangente de informações sobre o projeto e a empresa, contribuindo para uma compreensão aprofundada das expectativas e necessidades dos parceiros envolvidos. <br>
@@ -73,9 +73,8 @@ As empresas reconheceram a necessidade de coordenar melhor as suas atividades de
 Um ERP pode ser definido como um sistema de gestão integrado, adquirido sob a forma de pacote de software, que visa atender às necessidades de informação das empresas (ALBRECHT ET AL. 2005).
 
 
-&emsp;&emsp;A SAP (Sistemas, Aplicativos e Produtos para Processamento de Dados) teve sua origem em 1972, na cidade de Walldorf, na Alemanha. O sistema foi desenvolvido a partir de uma aplicação criada a fim de suportar a escrituração contábil das empresas a partir da integração dos processos da empresa. 
-Já o SAP Business One é,  especificamente, o ERP que auxilia no  gerenciamento e suporte de pequenas e médias empresas.
-A fim de que a implementação seja realizada da forma mais consistente e satisfatória possível, existem metodologias que se adaptam conforme o tipo e dinâmicas da empresa, o tempo esperado de implementação e outros. São eles:
+&emsp;&emsp;A SAP (Sistemas, Aplicativos e Produtos para Processamento de Dados) teve sua origem em 1972, na cidade de Walldorf, na Alemanha. O sistema foi desenvolvido a partir de uma aplicação criada a fim de suportar a escrituração contábil das empresas a partir da integração dos processos da empresa.  <br>
+&emsp;&emsp; Já o SAP Business One é,  especificamente, o ERP que auxilia no  gerenciamento e suporte de pequenas e médias empresas. A fim de que a implementação seja realizada da forma mais consistente e satisfatória possível, existem metodologias que se adaptam conforme o tipo e dinâmicas da empresa, o tempo esperado de implementação e outros. São eles:<br>
 
 - Summit;
 - ASAP;
@@ -90,8 +89,8 @@ Processo de implementação ERP
 Figura 2.Processo de implementação ERP.
 Fonte: Dado dos autores (2023).
 
-&emsp;&emsp; A implementação de um sistema ERP pode ser conceituada como o processo no qual os módulos são utilizados em uma corporação.
-Os fatores de compatibilidade entre a organização e as características dos sistemas ERP mantém toda a relação com a etapa de implementação (LUCAS,1985). Durante o processo de implementação, é fundamental resolver essas discrepâncias, podendo ser efetivada de duas maneiras: ou muda-se o pacote, por meio da parametrização ou customização, ou mudam-se os procedimentos da organização. <br>
+&emsp;&emsp; A implementação de um sistema ERP pode ser conceituada como o processo no qual os módulos são utilizados em uma corporação. <br>
+&emsp;&emsp; Os fatores de compatibilidade entre a organização e as características dos sistemas ERP mantém toda a relação com a etapa de implementação (LUCAS,1985). Durante o processo de implementação, é fundamental resolver essas discrepâncias, podendo ser efetivada de duas maneiras: ou muda-se o pacote, por meio da parametrização ou customização, ou mudam-se os procedimentos da organização. <br>
 
 **Dificuldades**
 &emsp;&emsp; A obra de Carvalho et al. (2019) realiza o estudo de caso da empresa “Rosa Choque”, companhia de roupas femininas, de médio porte e está no mercado há 30 anos. Com base na implementação do sistema na empresa, o autor ressaltou elementos que são fundamentais e podem apresentar impedimento durante a utilização completa e satisfatória do ERP. <br>
@@ -122,7 +121,7 @@ A seguir, seguem as personas desenvolvidas:
 
  <img src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Persona_Gabriel.png" width="900"/>
 
-Imagem 1. Persona Gabriel Almeida <br>
+Imagem 3. Persona Gabriel Almeida <br>
 Fonte: Dados dos autores (2023) <br>
 
 &emsp;&emsp; A persona do Gabriel Almeida é desenvolvida a fim de compreender o key user que gerencia o fluxo operacional da empresa, a fim de condicionar o treinamento e disseminação do SAP Business One.
@@ -131,7 +130,7 @@ Fonte: Dados dos autores (2023) <br>
 
  <img src="https://github.com/2023M7T4-Inteli/grupo3/blob/main/assets/imagens/Persona_Fernanda.png" width="900"/>
 
-Imagem 2. Persona Fernanda Macedo <br>
+Imagem 4. Persona Fernanda Macedo <br>
 Fonte: Dados dos autores (2023) <br>
 
 &emsp;&emsp; Já a persona Fernanda Macedo corresponde a key user responsável pelo módulo de vendas, disposta a melhorar o processo e aumentar a integração dos outros módulos essenciais para o funcionamento da corporação.
