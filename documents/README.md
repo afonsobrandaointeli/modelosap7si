@@ -11,6 +11,6 @@ Descrição breve do projeto
 
 ## (Sprint 1) Entendimento da Experiência do Usuário
 
-- Arquivo `README.md` referente à entrega: [Entendimento da Experiência do Usuário](https://github.com/2023M7T4-Inteli/grupo3/blob/main/Documents/Entendimento_UX.md).
+- Arquivo `README.md` referente à entrega: [Entendimento da Experiência do Usuário](https://github.com/2023M7T4-Inteli/grupo3/blob/main/documents/outros/Entendimento_UX.md).
 
 
