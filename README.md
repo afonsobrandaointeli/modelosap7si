@@ -73,4 +73,4 @@ is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=choos
 
 ## 🎓 Referências
 
-Adicionar as referências utilizadas no projeto.
+Não se aplica.
